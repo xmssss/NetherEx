@@ -99,7 +99,7 @@ public class ConfigHandler
         public class BiomesOPlenty
         {
             @Config.LangKey("config." + NetherEx.MOD_ID + ":compatibility.biomesOPlenty.enableCompatibility")
-            public boolean enableCompatibility = true;
+            public boolean enableCompatibility = false;
         }
     }
 
